@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://blog.integrationfest.in/posts/blog-workflow-guide/index.html</loc>
-    <lastmod>2023-09-02T10:38:37.868Z</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.integrationfest.in/about.html</loc>
-    <lastmod>2023-09-02T10:38:35.300Z</lastmod>
+    <loc>https://blog.integrationfest.in/posts/welcome/index.html</loc>
+    <lastmod>2023-09-02T11:07:32.145Z</lastmod>
   </url>
   <url>
     <loc>https://blog.integrationfest.in/index.html</loc>
-    <lastmod>2023-09-02T10:38:37.504Z</lastmod>
+    <lastmod>2023-09-02T11:07:31.301Z</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.integrationfest.in/about.html</loc>
+    <lastmod>2023-09-02T11:07:29.077Z</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.integrationfest.in/posts/post-with-code/index.html</loc>
+    <lastmod>2023-09-02T11:07:31.833Z</lastmod>
   </url>
 </urlset>
