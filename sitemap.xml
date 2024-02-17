@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://blog.integrationfest.in/posts/welcome/index.html</loc>
-    <lastmod>2024-01-21T15:44:12.616Z</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.integrationfest.in/posts/latex-test/index.html</loc>
-    <lastmod>2024-01-21T15:44:11.900Z</lastmod>
+    <loc>https://blog.integrationfest.in/index.html</loc>
+    <lastmod>2024-02-17T18:48:28.529Z</lastmod>
   </url>
   <url>
     <loc>https://blog.integrationfest.in/about.html</loc>
-    <lastmod>2024-01-21T15:44:10.516Z</lastmod>
+    <lastmod>2024-02-17T18:48:28.529Z</lastmod>
   </url>
   <url>
-    <loc>https://blog.integrationfest.in/index.html</loc>
-    <lastmod>2024-01-21T15:44:11.592Z</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.integrationfest.in/posts/post-with-code/index.html</loc>
-    <lastmod>2024-01-21T15:44:12.332Z</lastmod>
+    <loc>https://blog.integrationfest.in/posts/sauda24/index.html</loc>
+    <lastmod>2024-02-17T18:48:28.529Z</lastmod>
   </url>
 </urlset>
