@@ -10,7 +10,7 @@
 <atom:link href="https://blog.integrationfest.in/index.xml" rel="self" type="application/rss+xml"/>
 <description>ISI Integration Blog Series</description>
 <generator>quarto-1.4.550</generator>
-<lastBuildDate>Sat, 17 Feb 2024 18:48:39 GMT</lastBuildDate>
+<lastBuildDate>Sat, 17 Feb 2024 18:50:32 GMT</lastBuildDate>
 <item>
   <title>Sauda</title>
   <dc:creator>Shambho Saha</dc:creator>
@@ -37,7 +37,7 @@
 
  ]]></description>
   <guid>https://blog.integrationfest.in/posts/sauda24/</guid>
-  <pubDate>Sat, 17 Feb 2024 18:48:39 GMT</pubDate>
+  <pubDate>Sat, 17 Feb 2024 18:50:32 GMT</pubDate>
 </item>
 </channel>
 </rss>
